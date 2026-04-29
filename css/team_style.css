@@ -1,0 +1,24 @@
+header{
+	width: 100%;
+	background: #006400;
+	height: 100px;
+}
+
+body {
+  background-color: #fffacd;
+  font-family: serif, Garamond;
+}
+
+h1 {
+  color: #D07090;
+  text-align: center;
+  font-family: serif, Garamond;
+  font-size: 50px;
+  padding-top: 25px;
+}
+
+h3 {
+  color: #D07090;
+  font-family: serif, Garamond;
+}
+  
