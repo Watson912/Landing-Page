@@ -1,2 +1,1 @@
-# Landing-Page
-The team landing page
+Delete later
